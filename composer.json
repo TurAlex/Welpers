@@ -1,12 +1,12 @@
 {
-  "name": "vendor_name/package_name",
-  "description": "description_text",
+  "name": "TurAlex/Welper",
+  "description": "just for test",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
-      "name": "author's name",
-      "email": "email@example.com"
+      "name": "Tur Alex",
+      "email": "turalex67@gmail.com"
     }
   ]
 }
